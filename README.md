@@ -1,3 +1,5 @@
+This repo is out of maintenance and decommissioned.
+
 # MiniTokenBlacklist
 This is a repo to host a file for block MiniToken scams.
 
